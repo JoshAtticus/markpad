@@ -17,7 +17,7 @@ li {
 }
 
 .toolbar {
-	background-color: rgb(0, 0, 0, 0.1);
+	background-color: transparent;
 	display: flex;
 	position: fixed;
 	top: 0;
@@ -28,7 +28,7 @@ li {
 }
 
 .editor {
-	background-color: #333;
+	background-color: transparent;
 	color: #fff;
 	font-size: 16px;
 	outline: none;
