@@ -28,7 +28,7 @@ li {
 }
 
 .editor {
-	background-color: transparent;
+	background-color: rgb(0, 0, 0, 0.1);
 	color: #fff;
 	font-size: 16px;
 	outline: none;
