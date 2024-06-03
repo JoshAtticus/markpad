@@ -17,7 +17,7 @@ li {
 }
 
 .toolbar {
-	background-color: #333;
+	background-color: transparent;
 	display: flex;
 	position: fixed;
 	top: 0;
